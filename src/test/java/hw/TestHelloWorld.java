@@ -45,7 +45,7 @@ public class TestHelloWorld {
   }
 
   @Test
-  public void getYearInList() { // fixed
+  public void getYearInList() { // fixed test
     var list = Arrays.asList(fixture);
     assertEquals(2024, list.get(0).getYear());
   }

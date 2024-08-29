@@ -9,6 +9,6 @@ public class Main {
     final var instance = new HelloWorld();
     System.out.println(instance.getMessage());
     System.out.println(instance.getYear());
-    System.out.println("bye for now");
+    System.out.println("goodbye for now");
   }
 }
